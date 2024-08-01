@@ -1,3 +1,3 @@
 # JavaScript and the Web
-## 9.3 Events
+## 3 Events
 ---
